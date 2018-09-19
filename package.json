@@ -1,0 +1,23 @@
+{
+  "name": "reduxreducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wosin7/reduxreducer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wosin7/reduxreducer/issues"
+  },
+  "homepage": "https://github.com/wosin7/reduxreducer#readme",
+  "dependencies": {
+    "redux": "^4.0.0",
+    "uuid": "^3.3.2"
+  }
+}
